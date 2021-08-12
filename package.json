@@ -1,24 +1,24 @@
 {
-  "name": "goit-js-hw-10-food-service",
+  "name": "goit-js-hw-12-countries",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Vlad-Otrishko.io/goit-js-hw-10-food-service",
+  "homepage": "https://Vlad-Otrishko.io/goit-js-hw-12-countries",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-10-food-service/",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-12-countries/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vlad-Otrishko/goit-js-hw-10-food-service.git"
+    "url": "git+https://github.com/Vlad-Otrishko/goit-js-hw-12-countries.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vlad-Otrishko/goit-js-hw-10-food-service/issues"
+    "url": "https://github.com/Vlad-Otrishko/goit-js-hw-12-countries/issues"
   },
   "devDependencies": {
     "@pnotify/core": "^5.2.0",
